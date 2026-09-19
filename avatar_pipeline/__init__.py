@@ -1,0 +1,1 @@
+"""Course avatar processing example."""
